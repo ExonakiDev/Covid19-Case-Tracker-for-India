@@ -22,6 +22,8 @@ GUI application in Python made using Tkinter
     python covid.py
   
   ### OR
+    
+    pip install -r requirements.txt
   
     python3 covid.py
   
