@@ -13,13 +13,13 @@ GUI application in Python made using Tkinter
 
 ## To run:
 
-  pip install -r requirements.txt
+    pip install -r requirements.txt
   
-  python covid.py
+    python covid.py
   
   ### OR
   
-  python3 covid.py
+    python3 covid.py
   
 ## Usage:
 
