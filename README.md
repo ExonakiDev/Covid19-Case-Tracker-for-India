@@ -4,6 +4,7 @@ GUI application in Python made using Tkinter
 ## To run:
 
   pip install -r requirements.txt
+  
   python covid.py
   
   ### OR
