@@ -1,6 +1,10 @@
 # Covid19-Case-Tracker-for-India
 GUI application in Python made using Tkinter
 
+## Clone Repo
+    
+    git clone https://github.com/ExonakiDev/Covid19-Case-Tracker-for-India.git
+
 ## Make sure to install tkinter from repos
   
   ### Ubuntu / Debian:
